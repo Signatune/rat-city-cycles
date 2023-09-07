@@ -1,0 +1,24 @@
+{
+  "name": "rat-city-cycles",
+  "version": "1.0.0",
+  "description": "Brochure site for Rat City Cycles bike shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Signatune/rat-city-cycles.git"
+  },
+  "author": "Mike Ambrosino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Signatune/rat-city-cycles/issues"
+  },
+  "homepage": "https://github.com/Signatune/rat-city-cycles#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
